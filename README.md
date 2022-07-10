@@ -16,6 +16,8 @@ npm install or yarn
 ```bash
 expo start
 ```
+![Screenshot](Screenshot 2022-07-10 at 10.51.43 AM.png)
+
 
 
 ## Contributing
